@@ -1,0 +1,7 @@
+US_ONLY = True
+
+REMOTE_ONLY = False
+
+SAVE_TO_CSV = True
+
+MAX_RESULTS = 500
